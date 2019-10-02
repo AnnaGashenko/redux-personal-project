@@ -1,5 +1,5 @@
 // Core
-import { object, string} from 'yup';
+import { object, string } from 'yup';
 
 export const composer = {
     shape: {
